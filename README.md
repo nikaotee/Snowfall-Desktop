@@ -14,10 +14,25 @@ needs no installation, and has no heavy dependencies.
 
 Check out the **[Releases](../../releases/latest)** section:
 
-- **Mac** (Apple Silicon: M1 and newer) — `Snowfall.dmg`
+- **Mac** (Apple Silicon: M1 and newer)  `Snowfall.dmg`
 - **Windows 10/11** — `Snowfall.exe`
 
 No installation required: just open it, and let it snow.
+
+### Verify Your Download
+
+SHA-256 checksums for version 0.1.0:
+
+| File | SHA-256 |
+|---|---|
+| `Snowfall.dmg` | `54e61479b59d26c06a1aa28ae561ffd0be0003510e88cf8643229e4f2a66c942` |
+| `Snowfall.exe` | `852d0169c893f90d9f973434bd0854db4258603bd5940b02a68eac44db179b7c` |
+
+How to check the file you downloaded:
+- **Mac** (Terminal): `shasum -a 256 ~/Downloads/Snowfall.dmg`
+- **Windows** (PowerShell): `Get-FileHash $HOME\Downloads\Snowfall.exe`
+
+The result must match the table. If it doesn't, don't run the file.
 
 ## First Launch
 
@@ -79,7 +94,22 @@ DirectX 12 на Windows), окна — через winit. Поэтому прог
 - **Mac** (Apple Silicon: M1 и новее)  `Snowfall.dmg`
 - **Windows 10/11**  `Snowfall.exe`
 
-Ничего устанавливать не нужно: открыли — снег пошёл.
+Ничего устанавливать не нужно: открыли  снег пошёл.
+
+### Проверка файла
+
+Контрольные суммы (SHA-256) версии 0.1.0:
+
+| Файл | SHA-256 |
+|---|---|
+| `Snowfall.dmg` | `54e61479b59d26c06a1aa28ae561ffd0be0003510e88cf8643229e4f2a66c942` |
+| `Snowfall.exe` | `852d0169c893f90d9f973434bd0854db4258603bd5940b02a68eac44db179b7c` |
+
+Как проверить скачанный файл:
+- **Mac** (Терминал): `shasum -a 256 ~/Downloads/Snowfall.dmg`
+- **Windows** (PowerShell): `Get-FileHash $HOME\Downloads\Snowfall.exe`
+
+Результат должен совпасть с таблицей. Если не совпадает — не запускайте файл.
 
 ## Первый запуск
 
