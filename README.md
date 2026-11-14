@@ -35,6 +35,21 @@ Quickly swipe your cursor across a snowdrift to brush the snow away.
 ## Privacy
 
 Snowfall does not use the network and never sends any data anywhere. To know where the snow should land, it only reads the position and dimensions of windows—never their contents.
+## Support the Project
+
+Snowfall is free. If it made your winter a little cozier and you'd like to say thanks,
+you can buy the author a cup of hot cocoa ☕
+
+**[❤ Support Snowfall]**
+
+## Non-Commercial Project
+
+- Snowfall is a **non-commercial** project made just for fun and for the holiday mood.
+  The author is not trying to make money from it.
+- The source code is not public yet, but the app **contains no malware, ads, or trackers**
+  and does not connect to the internet.
+- The app is provided **"as is"**, without any warranty. The author is not liable for any
+  bugs, vulnerabilities, or consequences of using it. Use it at your own discretion.
 
 /////// RU ////////
 
@@ -85,3 +100,23 @@ Snowfall does not use the network and never sends any data anywhere. To know whe
 
 Snowfall не использует сеть и ничего никуда не отправляет. Чтобы знать, куда
 ложится снег, он читает только расположение и размеры окон, но не их содержимое.
+
+## Поддержать проект
+
+Snowfall бесплатный. Если он сделал вашу зиму чуточку уютнее и хочется сказать
+спасибо, можно угостить автора чашкой горячего какао ☕
+
+**[❤ Поддержать Snowfall] и студента из Узбекистана**
+Click (https://my.click.uz/clickp2p/66FE70136CA7FDC282ABF0591BB47864BC48AF8F5CD97590289E316F830D03A3)
+
+Донаты полностью добровольные и ничего не открывают у всех одна и та же программа.
+
+## Некоммерческий проект
+
+- Snowfall  **некоммерческий** проект, сделанный для души и новогоднего
+  настроения. Автор не преследует цели заработать на нём.
+- Исходный код пока не опубликован, но программа **не содержит вредоносного ПО,
+  рекламы и трекеров** и не подключается к интернету.
+- Программа распространяется **«как есть»**, без каких-либо гарантий. Автор не
+  несёт ответственности за ошибки, уязвимости и последствия её использования.
+  Используйте её на своё усмотрение.
