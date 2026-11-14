@@ -40,7 +40,7 @@ Snowfall does not use the network and never sends any data anywhere. To know whe
 Snowfall is free. If it made your winter a little cozier and you'd like to say thanks,
 you can buy the author a cup of hot cocoa ☕
 
-**[❤ Support Snowfall]**
+**[❤ Support Snowfall] with your stars!**
 
 ## Non-Commercial Project
 
@@ -106,10 +106,7 @@ Snowfall не использует сеть и ничего никуда не о
 Snowfall бесплатный. Если он сделал вашу зиму чуточку уютнее и хочется сказать
 спасибо, можно угостить автора чашкой горячего какао ☕
 
-**[❤ Поддержать Snowfall] и студента из Узбекистана**
-Click (https://my.click.uz/clickp2p/66FE70136CA7FDC282ABF0591BB47864BC48AF8F5CD97590289E316F830D03A3)
-
-Донаты полностью добровольные и ничего не открывают у всех одна и та же программа.
+**[❤ Поддержать Snowfall] и студента из Узбекистана своими звездами!**
 
 ## Некоммерческий проект
 
