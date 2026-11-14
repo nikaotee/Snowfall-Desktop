@@ -4,6 +4,12 @@
 
 Snow on your desktop for macOS and Windows. Snowflakes fall over windows and accumulate in drifts on their top edges, the Dock, and the taskbar. Little snowplows with fairy lights drive through the drifts, penguins wander around, snowmen build themselves, and occasionally Santa flies across the screen.
 
+## Built With
+
+Snowfall is written in **Rust** 🦀. It renders on the GPU (wgpu: Metal on Mac,
+DirectX 12 on Windows) and uses winit for windows. That's why it's tiny (about 2 MB),
+needs no installation, and has no heavy dependencies.
+
 ## Download
 
 Check out the **[Releases](../../releases/latest)** section:
@@ -59,6 +65,12 @@ you can buy the author a cup of hot cocoa ☕
 сугробами на их верхние края, на Dock и на панель задач. По сугробам ездят маленькие
 снегоуборщики с гирляндами, гуляют пингвины, сами лепятся снеговики, а иногда
 над экраном пролетает Санта.
+
+## Технологии
+
+Snowfall написан на **Rust** 🦀. Отрисовка — через видеокарту (wgpu: Metal на Mac,
+DirectX 12 на Windows), окна — через winit. Поэтому программа маленькая (около 2 МБ),
+работает без установки и не тянет за собой тяжёлых зависимостей.
 
 ## Скачать
 
